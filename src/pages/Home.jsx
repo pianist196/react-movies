@@ -1,9 +1,10 @@
 import React from 'react';
+import HeroSlide from '../components/hero-slide/HeroSlide';
 
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <HeroSlide />
         </div>
     );
 };
